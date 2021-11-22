@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'cậu mơ à :333',
     question:'Nói cho tới lý do vì sao cậu yêu tớ đii <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Tại vì cậu beautiful hihi <33333333',
+    reply: 'Tại vì cậu dthw hjhj <33333333',
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'facebook.com/trangg.thuyy.9615566',
+    messLink: 'https://www.facebook.com/mhang105',
 }
